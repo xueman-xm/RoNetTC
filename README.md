@@ -1,4 +1,4 @@
-# Trusted Multi-View Classification
+# Reliable Open-Set Network Traffic Classification
 
 ## Requirment
 - Pytorch 1.3.0
@@ -6,3 +6,8 @@
 - sklearn
 - numpy
 - scipy
+
+
+##Python train.py
+##Input Data Format
+###
