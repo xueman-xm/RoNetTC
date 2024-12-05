@@ -8,6 +8,12 @@
 - scipy
 
 
-##Python train.py
-##Input Data Format
-###
+## Python train.py
+
+## Input Data Format
+The model input is `X`, with the following requirements:
+- **Dimensions**: `(H, W, C)`
+  - `H`: Height
+  - `W`: Width
+  - `C`: Channels, 
+
