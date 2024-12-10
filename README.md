@@ -11,7 +11,7 @@
 ## Python train.py
 
 ## Input Data Format
-The model input is `X`, with the following requirements:
+The model inputs are: parallel inputs for three views, in one view for example, `X`, with the following requirements:
 - **Dimensions**: `(H, W, C)`
   - `H`: Height
   - `W`: Width
